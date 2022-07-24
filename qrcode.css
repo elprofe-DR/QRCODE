@@ -1,0 +1,50 @@
+/**********************TAG SELECTORS***************************/
+body {
+  background-color: hsl(212, 45%, 89%);
+}
+
+
+
+/**********************CLASS SELECTORS*************************/
+.QRIMG {
+  display: inline-block;
+  margin: 40px 50px 50px 300px;
+  border-radius: 20px;
+  background-color: White;
+  width: 409PX;
+}
+
+.h1 {
+  display: inline-block;
+  text-align: center;
+  color: hsl(218, 44%, 22%);
+  font-family: Outfit;
+  margin-top: 0;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.QRIMG1 {
+  padding: 20px;
+}
+
+.IMG {
+  width: 370px;
+  border-radius: 10px;
+}
+
+.paragraf {
+  text-align: center;
+  display: inline-block;
+  color: hsl(210, 17%, 72%);
+  font-size: 20px;
+  padding: 0 50px 30px 50px;
+  margin-top: 0;
+}
+
+.attribution {
+  text-align: center;
+  color: hsl(228, 45%, 44%);
+  font-size: 11px;
+}
+/**********************ID SELECTORS****************************/
